@@ -4,7 +4,9 @@
 
 <p>A frontend developer, website designer and SEO Manager.</p>
 
-<p> I am a native of Ilesha in Osun State, Nigeria.</p>
+# Stacks
+
+Reactjs, Nextjs, Bootstrap, TailwindCSS, Bulma, HTML & CSS, SEO and WordPress
 
 
 # My Interest
