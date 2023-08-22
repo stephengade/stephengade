@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/stephen_olgade" target="blank"><img src="https://img.shields.io/twitter/follow/stephen_olgade?logo=twitter&style=for-the-badge" alt="stephen_olgade" /></a> </p>
 
-- 🌱 I’m currently learning **Python and Upskilling in Frontend development**
+- 🌱 I’m currently learning **Python and Data Science**
 
-- 👨‍💻 All of my projects are available at [gade.vzy.io](gade.vzy.io)
+- 👨‍💻 All of my projects are available at [stephengade.com](stephengade.com)
 
 - 📝 I regularly write articles on [https://dev.to/stephengade] (DEV Community)
 
 - 💬 Ask me about **Reactjs, Nextjs, Vue.js, Tailwindcss**
 
-- 📫 How to reach me **solgade01@gmail.com**
+- 📫 How to reach me **hello@stephengade.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
