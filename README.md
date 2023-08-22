@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [stephengade.com](stephengade.com)
 
-- 📝 I regularly write articles on [https://dev.to/stephengade](DEV Community)
+- 📝 I regularly write technical articles at https://dev.to/stephengade
 
 - 💬 Ask me about **Reactjs, Nextjs, Vue.js, Tailwindcss**
 
