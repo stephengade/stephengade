@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and Data Science**
 
-- 👨‍💻 All of my projects are available at [stephengade.com](stephengade.com)
+- 👨‍💻 All of my projects are available at  <a href="https://www.stephengade.com" target="_blank" rel="noreferrer">stephengade.com</a>
 
 - 📝 I regularly write technical articles at https://dev.to/stephengade
 
