@@ -91,7 +91,7 @@ const expertise = {
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephengade&show_icons=true&theme=tokyonight)](https://github.com/stephengade)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=stephengade)](https://github.com/stephengade)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stephengade&theme=whatsapp-light)](https://git.io/streak-stats)
 
 </div>
 
