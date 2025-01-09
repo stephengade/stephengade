@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-stephengade.com-4CAF50?style=for-the-badge)](https://www.stephengade.com)
 [![Blog](https://img.shields.io/badge/Technical_Blog-dev.to-0A0A0A?style=for-the-badge&logo=dev.to)](https://dev.to/stephengade)
-[![Book a Call](https://img.shields.io/badge/Book_a_Call-Calendly-006BFF?style=for-the-badge)](https://calendly.com/stephengade)
+[![Book a Call](https://img.shields.io/badge/Book_a_Call-Calendly-006BFF?style=for-the-badge)](https://calendly.com/gade0x/hire)
 
 </div>
 
@@ -29,9 +29,12 @@ const expertise = {
     languages: ['JavaScript', 'TypeScript', 'Python', 'SQL'],
     frameworks: {
         react: ['Next.js', 'Zustand', 'React Query'],
+        python: ['FastAPI', 'Flask'],
         styling: ['Tailwind CSS', 'SCSS', 'Styled-Components'],
         ui_libraries: ['Shadcn UI', 'Material UI', 'Bootstrap', 'AntD']
-    }
+    },
+    apis: ['REST', 'GraphQL'],
+    testing: ['Postman', 'Jest', 'React Testing Library']
 }
 ```
 
@@ -41,7 +44,13 @@ const expertise = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript)
 
-### Backend & Database
+### Backend & API
+![FastAPI](https://img.shields.io/badge/FastAPI-Intermediate-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-Intermediate-000000?style=for-the-badge&logo=flask)
+![GraphQL](https://img.shields.io/badge/GraphQL-Intermediate-E10098?style=for-the-badge&logo=graphql)
+![Postman](https://img.shields.io/badge/Postman-Advanced-FF6C37?style=for-the-badge&logo=postman)
+
+### Database & Backend Services
 ![Supabase](https://img.shields.io/badge/Supabase-Proficient-3ECF8E?style=for-the-badge&logo=supabase)
 ![Firebase](https://img.shields.io/badge/Firebase-Advanced-FFCA28?style=for-the-badge&logo=firebase)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=postgresql)
@@ -55,7 +64,6 @@ const expertise = {
 ![WordPress](https://img.shields.io/badge/WordPress-Expert-21759B?style=for-the-badge&logo=wordpress)
 ![Shopify](https://img.shields.io/badge/Shopify-Advanced-7AB55C?style=for-the-badge&logo=shopify)
 ![Wix](https://img.shields.io/badge/Wix-Proficient-0C6EFC?style=for-the-badge&logo=wix)
-
 
 ## Current Projects & Focus 🎯
 
@@ -83,7 +91,7 @@ const expertise = {
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephengade&show_icons=true&theme=tokyonight)](https://github.com/stephengade)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stephengade&theme=tokyonight)](https://github.com/stephengade)
+[![GitHub Streak](https://streak-stats.demolab.com?user=stephengade)](https://github.com/stephengade)
 
 </div>
 
