@@ -33,8 +33,9 @@ const expertise = {
         styling: ['Tailwind CSS', 'SCSS', 'Styled-Components'],
         ui_libraries: ['Shadcn UI', 'Material UI', 'Bootstrap', 'AntD']
     },
+    database: ['Supabase, Firebase, Postgres, SQL'],
     apis: ['REST', 'GraphQL'],
-    testing: ['Postman', 'Jest', 'React Testing Library']
+    api_testing: ['Postman', 'Swagger', 'Apollo']
 }
 ```
 
