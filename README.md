@@ -7,15 +7,15 @@ Software engineer who thinks beyond features and code. I approach software as a 
 ## Stack
 
 - **Languages** — TypeScript, JavaScript, Python, SQL
-- **Frontend** — React, Next.js, Zustand, React Query, Tailwind CSS, SCSS, Styled Components
-- **Backend** — Express, Elysia
-- **Data** — PostgreSQL, Supabase, Firebase
+- **Frontend** — React, Next.js, Zustand, React Query, Tailwind CSS, Shadcn/ui, SCSS, Styled Components
+- **Backend** — Express, Elysia, and Learning Flask and FastAPI
+- **Data** — PostgreSQL, Supabase, Firebase, MongoDB
 - **Tooling** — Postman, Swagger, Apollo
 - **No-code / CMS** — WordPress, Shopify, Wix
 
 ## Currently
 
-Experimenting with startup ideas, mastering Agentic AI, and tinkering with Python.
+Buiding [Vendda.app](https://vendda.app), experimenting with other startup ideas, mastering Agentic AI, and tinkering with Python.
 
 ---
 
