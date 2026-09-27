@@ -2,7 +2,7 @@
 
 I’m a full-stack software engineer with a frontend focus. For over seven years, I’ve built and maintained web products for real users, often turning complicated workflows into interfaces that feel simple to use.
 
-I’m currently a Senior Frontend Engineer at **ThriveAgric (YC W19) / Crust MFB**. I built the frontend foundation for Crust’s corporate internet banking product, including payments, approvals, and role-based access. I also built the frontend for **Crust Portfolio Desk**, a deposit mobilization product with permission-aware workflows.
+I’m currently a Frontend Engineer at **ThriveAgric (YC W19) / Crust MFB**. I built the frontend foundation for Crust’s corporate internet banking product, including payments, approvals, and role-based access. I also built the frontend for **Crust Portfolio Desk**, a deposit mobilization product with permission-aware workflows.
 
 Outside work, I’m building **[Vendda](https://vendda.co)**, which helps small businesses in Nigeria start selling online, and **Ploba**, a place to discover AI apps, agents, APIs, and tools. Building my own products keeps me close to decisions beyond the code: what to ship, what to simplify, and what needs to keep working after launch.
 
