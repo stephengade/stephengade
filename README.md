@@ -12,9 +12,9 @@ Outside work, I'm building three products of my own: **[Vendda](https://vendda.c
 
 Building for myself keeps me close to the parts of the job that don't show up in a pull request: deciding what to ship next, talking to actual customers, figuring out what to simplify, and making sure what I build keeps working long after launch.
 
-When I'm not writing code or mapping out the next product flow, I'm usually travelling somewhere new, or adding to Google Maps as a Local Guide, currently about halfway to level 7 🙂.
+When I'm not writing code or mapping out the next product flow, I'm probably travelling to somewhere new and contributing to Google Maps as a Local Guide, currently halfway to level 7 🙂.
 
-Day to day, I work mostly with TypeScript, React, Next.js, Express.js, MongoDB, and PostgreSQL. I'm also comfortable picking up Python tools like FastAPI or Flask when a project calls for them.
+Day-to-day, I work mostly with TypeScript, React, Next.js, Express.js, MongoDB, and PostgreSQL. I'm also comfortable picking up Python tools like FastAPI or Flask when a project calls for them.
 
 I'm open to frontend or product engineering roles, and selective consulting work.
 
