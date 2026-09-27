@@ -1,15 +1,21 @@
 # Stephen Gbolagade
 
-I’m a full-stack software engineer with a frontend focus. For over seven years, I’ve built and maintained web products for real users, often turning complicated workflows into interfaces that feel simple to use.
+I'm a full-stack software engineer with a frontend focus, and for over seven years I've built and maintained web products for real users.
 
-I’m currently a Frontend Engineer at **ThriveAgric (YC W19) / Crust MFB**. I built the frontend foundation for Crust’s corporate internet banking product, including payments, approvals, and role-based access. I also built the frontend for **Crust Portfolio Desk**, a deposit mobilization product with permission-aware workflows.
+What I enjoy most is taking a genuinely complicated workflow — approvals, permissions, multi-step processes—and shaping it into an interface that feels obvious to use.
 
-Outside work, I’m building **[Vendda](https://vendda.co)**, which helps small businesses in Nigeria start selling online, and **Ploba**, a place to discover AI apps, agents, APIs, and tools. Building my own products keeps me close to decisions beyond the code: what to ship, what to simplify, and what needs to keep working after launch.
+I'm currently a Frontend Engineer at **ThriveAgric (YC W19) / Crust MFB**. There, I built the frontend foundation for Crust's corporate internet banking product, handling payments, approvals, and role-based access from the ground up.
 
-When I’m not writing code or planning the next product flow, I like travelling to new places and contributing to Google Maps as a Local Guide.
+I also built the frontend for **Crust Portfolio Desk**, a deposit mobilization product where permissions shape what each user can see and do—so much of the work was less about UI polish and more about designing flows that hold up across roles.
 
-I work mostly with TypeScript, React, Next.js, Node.js, MongoDB, and PostgreSQL. I’m also comfortable picking up Python tools such as FastAPI or Flask when the work calls for them.
+Outside work, I'm building three products of my own: **[Vendda](https://vendda.co)**, which helps small businesses in Nigeria start selling online; **Ploba**, a place to discover AI apps, agents, APIs, and tools; and **Klosapoint**, a Yelp-like platform for discovering local businesses nearby.
 
-I’m open to frontend or product engineering roles and selective consulting work.
+Building for myself keeps me close to the parts of the job that don't show up in a pull request — deciding what to ship next, talking to actual customers, figuring out what to simplify, and making sure what I build keeps working long after launch.
+
+When I'm not writing code or mapping out the next product flow, I'm usually travelling somewhere new, or adding to Google Maps as a Local Guide — currently about halfway to level 7 🙂.
+
+Day-to-day, I work mostly with TypeScript, React, Next.js, Express.js, MongoDB, and PostgreSQL. I'm also comfortable picking up Python tools like FastAPI or Flask when a project calls for them.
+
+I'm open to frontend or product engineering roles, and selective consulting work.
 
 [Portfolio](https://stephengade.com) · [LinkedIn](https://linkedin.com/in/solgade) · [Writing](https://dev.to/stephengade) · [Email](mailto:hello@stephengade.com)
