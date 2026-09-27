@@ -8,7 +8,7 @@ I'm currently a Frontend Engineer at **ThriveAgric (YC W19) / Crust MFB**. There
 
 I also built the frontend for **Crust Portfolio Desk**, a deposit mobilization product where permissions shape what each user can see and do. A lot of the work was less about UI polish and more about designing flows that hold up under different roles.
 
-Outside work, I'm building three products of my own: **[Vendda](https://vendda.co)**, which helps small businesses in Nigeria start selling online; **Ploba**, a place to discover AI apps, agents, APIs, and tools; and **Klosapoint**, a Yelp-like platform for discovering local businesses nearby.
+Outside work, I'm building two products of my own: **[Vendda](https://vendda.co)**, which helps small businesses in Nigeria start selling online, and **Klosapoint**, a Yelp-like platform for discovering local businesses nearby. I'm also the full-stack developer behind **Ploba**, a place to discover AI apps, agents, APIs, and tools.
 
 Building for myself keeps me close to the parts of the job that don't show up in a pull request: deciding what to ship next, talking to actual customers, figuring out what to simplify, and making sure what I build keeps working long after launch.
 
